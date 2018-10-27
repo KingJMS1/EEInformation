@@ -3,7 +3,7 @@ The Datasets and Programs used in my Extended Essay for IB
 The adding program featured in the paper is named Add.py
 
 In the Regression Folder:
-Response variable for linear regression is ys.p (pickle file);
+Response variable for linear regression is ys.p (pickle file),
 Explanatory variables are xs.p (pickle file)
 
 Elastic Net regression program is named Package.py
